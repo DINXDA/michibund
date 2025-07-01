@@ -2,3 +2,12 @@
 h1 {
   font-size:500px;
 }
+
+.header .navbar .navigation .first-category:nth-child(1) > a{
+	color: #fff;
+	background-color: #5AAC00 !important;
+	border-radius: 25px;
+	padding-left:20px !important;
+	padding-right:20px !important;
+}
+
